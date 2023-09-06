@@ -4,7 +4,11 @@ Dengue transmission poses significant challenges for public health authorities w
 
 ## Reproduce Results
 
+All data are available in the folder Data
+
 The folder *Wavelet_Coherence* has all the scripts to reproduce the heatmaps in the paper.
+
 8.clustering.R : Allows the clustering analysis and ploting the trees.
+
 
 
